@@ -1,6 +1,9 @@
 {
   "name": "qshipping",
   "version": "0.0.1",
+"engines": {
+    "node": "10.x"
+  },
   "description": "A Quasar Framework app",
   "productName": "Quasar App",
   "cordovaId": "org.cordova.quasar.app",
