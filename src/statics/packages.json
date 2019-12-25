@@ -1,0 +1,246 @@
+{
+    "packages":[
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"RIGHT-Rigester packahes",
+            "package_id":"LS919644713CH",
+            "employee_name_en":"DANNY VERNOVSKY",
+            "employee_name_he":"דני ורנובסקי",
+            "email":"dv696w@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"03.01.2019 13:57:21"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"RIGHT-Rigester packahes",
+            "package_id":"ls919610975ch",
+            "employee_name_en":"YEHUDIT GLASS",
+            "employee_name_he":"יהודית גלאס",
+            "email":"yg094r@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019 13:27:24"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"RIGHT-Rigester packahes",
+            "package_id":"ry396680416cn",
+            "employee_name_en":"PABLO RUDA",
+            "employee_name_he":"פבלו רודה",
+            "email":"pr684k@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019 11:29:50"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"RIGHT-Rigester packahes",
+            "package_id":"CJ556088982US",
+            "employee_name_en":"UDI VOLK",
+            "employee_name_he":"יהודה וולק",
+            "email":"uv111q@intl.att.com",
+            "message_sended_at":"01.01.2019"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"RIGHT-Rigester packahes",
+            "package_id":"LS919657399CH",
+            "employee_name_en":"izik golan",
+            "employee_name_he":"איציק גולן",
+            "email":"izik.golan.att@gmail.com",
+            "message_sended_at":"01.01.2019"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"RIGHT-Rigester packahes",
+            "package_id":"LS919375058CH",
+            "employee_name_en":"IDAN AGAM",
+            "employee_name_he":"עידן אגם",
+            "email":"ia901h@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019 13:27:52"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"RIGHT-Rigester packahes",
+            "package_id":"RP119196491CN",
+            "employee_name_en":"LIOR YANTOVSKI",
+            "employee_name_he":"ליאור יאנטובסקי",
+            "email":"ly107h@intl.att.com",
+            "message_sended_at":"01.01.2019"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "package_id":"YY01336250505",
+            "employee_name_en":"OLGA LVOVICH",
+            "employee_name_he":"אולגה לבוביץ",
+            "email":"ol288v@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"LEFT-Rigester packahes",
+            "package_id":"RY460674972CN",
+            "employee_name_en":"YEHUDIT GLASS",
+            "employee_name_he":"יהודית גלאס",
+            "email":"yg094r@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019 13:26:27"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "package_id":"RY450884203CN",
+            "employee_name_en":"OLGA LVOVICH",
+            "employee_name_he":"אולגה לבוביץ",
+            "email":"ol288v@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"RIGHT-Rigester packahes",
+            "package_id":"RP131227435CN",
+            "employee_name_en":"SAGIV COHEN",
+            "employee_name_he":"שגיב כהן",
+            "email":"sc561r@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019 11:06:07"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"LEFT-Rigester packahes",
+            "package_id":"RY430681294CN",
+            "employee_name_en":"SHAY ASSAF",
+            "employee_name_he":"שי אסף",
+            "email":"sa726r@intl.att.com",
+            "message_sended_at":"01.01.2019"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"RIGHT-Rigester packahes",
+            "package_id":"RY448174046CN",
+            "employee_name_en":"Ambarchi Amir",
+            "employee_name_he":"אמיר אמברצ`י",
+            "email":"aa3002@intl.att.com",
+            "message_sended_at":"01.01.2019"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"RIGHT-Rigester packahes",
+            "package_id":"YY01336744305",
+            "employee_name_en":"NOAM KAIKOV",
+            "employee_name_he":"נעם קייקוב",
+            "email":"nk7840@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019 11:14:49"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"D- middle",
+            "package_id":"LS919680675CH",
+            "employee_name_en":"DANA DAVID",
+            "employee_name_he":"דנה דוד",
+            "email":"dd775k@intl.att.com",
+            "message_sended_at":"01.01.2019"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"M- middle",
+            "package_id":"RP133683013CN",
+            "employee_name_en":"AYELET MANAIM",
+            "employee_name_he":"אילת מנעים",
+            "email":"am288v@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"A- middle",
+            "package_id":"RP116527441CN",
+            "employee_name_en":"ARIEL AHARON",
+            "employee_name_he":"אריאל אהרון",
+            "email":"aa366d@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019 11:16:46"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"S- middle",
+            "package_id":"RY458252406CN",
+            "employee_name_en":"ofir shmulevich",
+            "employee_name_he":"אופיר שמולביץ",
+            "email":"os391h@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019 13:56:06"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"S- middle",
+            "package_id":"RY433603455CN",
+            "employee_name_en":"YAKOV SHOSSEL",
+            "employee_name_he":"יעקב שוסל",
+            "email":"ys181v@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019 13:22:54"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"A- middle",
+            "package_id":"YY01337237105",
+            "employee_name_en":"IDAN AGAM",
+            "employee_name_he":"עידן אגם",
+            "email":"ia901h@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019 13:28:06"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"G- middle",
+            "package_id":"RG966437975CN",
+            "employee_name_en":"RUSLAN GAFIULIN",
+            "employee_name_he":"רוסלן גפיאולין",
+            "email":"ruslan85g@gmail.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"03.01.2019 10:03:14"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"A- middle",
+            "package_id":"RY434259988CN",
+            "employee_name_en":"HILA ANINA",
+            "employee_name_he":"הילה אנינה",
+            "email":"ha148a@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019 13:49:19"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"L- middle",
+            "package_id":"LM403930023CN",
+            "employee_name_en":"ISRAEL LAVI",
+            "employee_name_he":"ישראל לביא",
+            "email":"il0695@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019 11:26:01"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"LEFT-Rigester packahes",
+            "package_id":"RY460899247CN",
+            "employee_name_en":"YEHUDIT GLASS",
+            "employee_name_he":"יהודית גלאס",
+            "email":"yg094r@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019 13:26:37"
+        },
+        {
+            "enter_date":"01.01.2019",
+            "store_location":"LEFT-Rigester packahes",
+            "package_id":"RK882837130CN",
+            "employee_name_en":"PABLO LIBERMAN",
+            "employee_name_he":"פבלו ליברמן",
+            "email":"pl1890@intl.att.com",
+            "message_sended_at":"01.01.2019",
+            "picked_at":"01.01.2019 13:57:41"
+        }
+    ]
+}
