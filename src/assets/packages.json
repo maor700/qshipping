@@ -9,7 +9,7 @@
             "email":"email",
             "message_sended_at":"message_sended_at",
             "picked_at":"picked_at",
-            "delivered":"delivered"
+            "Delivered":"Delivered"
         },
         {
             "enter_date":"01.01.2019",
@@ -20,7 +20,7 @@
             "email":"dv696w@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"03.01.2019 13:57:21",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -31,7 +31,7 @@
             "email":"yg094r@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019 13:27:24",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -70,7 +70,7 @@
             "email":"ia901h@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019 13:27:52",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -89,7 +89,7 @@
             "email":"ol288v@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -100,7 +100,7 @@
             "email":"yg094r@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019 13:26:27",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -110,7 +110,7 @@
             "email":"ol288v@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -121,7 +121,7 @@
             "email":"sc561r@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019 11:06:07",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -150,7 +150,7 @@
             "email":"nk7840@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019 11:14:49",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -170,7 +170,7 @@
             "email":"am288v@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -181,7 +181,7 @@
             "email":"aa366d@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019 11:16:46",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -192,7 +192,7 @@
             "email":"os391h@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019 13:56:06",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -203,7 +203,7 @@
             "email":"ys181v@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019 13:22:54",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -214,7 +214,7 @@
             "email":"ia901h@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019 13:28:06",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -225,7 +225,7 @@
             "email":"ruslan85g@gmail.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"03.01.2019 10:03:14",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -236,7 +236,7 @@
             "email":"ha148a@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019 13:49:19",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -247,7 +247,7 @@
             "email":"il0695@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019 11:26:01",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -258,7 +258,7 @@
             "email":"yg094r@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019 13:26:37",
-            "delivered":true
+            "Delivered":True
         },
         {
             "enter_date":"01.01.2019",
@@ -269,7 +269,7 @@
             "email":"pl1890@intl.att.com",
             "message_sended_at":"01.01.2019",
             "picked_at":"01.01.2019 13:57:41",
-            "delivered":true
+            "Delivered":True
         }
     ]
 }

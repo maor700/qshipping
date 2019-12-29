@@ -14,7 +14,7 @@
               color="white"
               v-model="search"
               debounce="500"
-              filled
+              :filled="!edit"
               placeholder="חפש חבילה"
             >
               <template v-slot:append>
@@ -23,7 +23,7 @@
             </q-input>
           </div>
         </div>
-        <q-list bordered separator v-if="filterdList.length">
+        <q-list bordered separator v-if="filterdList.length" class="text-h6">
           <q-item
             v-for="item in filterdList"
             :key="item.package_id"
@@ -51,6 +51,9 @@
         <div v-if="!filterdList.length" class="text-h5 text-center">אין תוצאות</div>
       </div>
     </q-page-container>
+    <q-page-sticky position="bottom-right" :offset="[18, 18]">
+      <q-btn fab icon="add" color="blue" @click="showModal=true" />
+    </q-page-sticky>
     <q-dialog
       v-model="showModal"
       persistent
@@ -72,9 +75,6 @@
         </q-card-actions>
       </q-card>
     </q-dialog>
-    <q-page-sticky position="bottom-right" :offset="[18, 18]">
-      <q-btn fab icon="add" color="blue" @click="showModal=true" />
-    </q-page-sticky>
   </q-page>
 </template>
 
@@ -103,10 +103,10 @@ export default Vue.extend({
     }
   },
   methods: {
-    clickHandler(package_id:string) {
-      this.$router.push("/packages/"+package_id)
+    clickHandler(package_id: string) {
+      this.$router.push('/packages/' + package_id);
     }
-  },
+  }
   // created: async function() {
   //   const response = await axios.get('statics/packages.json');
   //   const { packages } = response.data;
